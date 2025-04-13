@@ -31,7 +31,7 @@ This project involves designing and implementing a database for a **Bookstore Ma
 2. Run them in a DBMS server such as **SQL Workbench** or any compatible SQL environment.
 3. Use the queries in the `demo_data.sql` file to load dummy data into the database tables.
 4. Refer to the database diagram (`PLP-Group-Asignment-BookStore-DB-Diagram_final.drawio.png`) for a visual representation of the table relationships.
-5. If additional scripts such as `test_queries.sql` are present, execute them as per the instructions in their comments.
+5. Use the `test_queries.sql` to carry out some basic testing on the data in the database.
 6. Run the `user-permissions.sql` file to create necessary database users and assign appropriate permissions.
 
 ---
@@ -95,4 +95,4 @@ This project involves designing and implementing a database for a **Bookstore Ma
 ---
 
 ## Conclusion
-This project demonstrates a comprehensive database design for a bookstore management system. The schema is designed to handle core functionalities such as book management, customer management, and order processing. The provided SQL scripts and database diagram can be used to understand and test the database structure. Feel free to explore and modify the design to suit additional requirements.
+This project demonstrates a comprehensive database design for a bookstore management system. The schema is designed to handle core functionalities such as book management, customer management, and order processing. The provided SQL scripts and database diagram can be used to understand and test the database structure. 
