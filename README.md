@@ -31,7 +31,8 @@ This project involves designing and implementing a database for a **Bookstore Ma
 2. Run them in a DBMS server such as **SQL Workbench** or any compatible SQL environment.
 3. Use the queries in the `demo_data.sql` file to load dummy data into the database tables.
 4. Refer to the database diagram (`PLP-Group-Asignment-BookStore-DB-Diagram_final.drawio.png`) for a visual representation of the table relationships.
-5. If additional scripts such as `test_queries.sql` or `data_cleanup.sql` are present, execute them as per the instructions in their comments.
+5. If additional scripts such as `test_queries.sql` are present, execute them as per the instructions in their comments.
+6. Run the `user-permissions.sql` file to create necessary database users and assign appropriate permissions.
 
 ---
 
@@ -88,8 +89,8 @@ This project involves designing and implementing a database for a **Bookstore Ma
 - **SQL Scripts**:  
   - `answers.sql`: Contains the SQL statements for creating the database schema.  
   - `demo_data.sql`: Contains sample data for populating the database tables.  
-  - `test_queries.sql`: Contains sample queries to test the database functionality.  
-  - `data_cleanup.sql`: Contains SQL statements for cleaning up or resetting the database.  
+  - `test_queries.sql`: Contains sample queries to test the database functionality.   
+  - `user-permissions.sql`: Contains SQL statements for creating users and assigning permissions.  
 
 ---
 
